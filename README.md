@@ -70,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [3110-score-of-a-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
