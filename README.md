@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
