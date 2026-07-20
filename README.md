@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1331-rank-transform-of-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
