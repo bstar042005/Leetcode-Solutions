@@ -7,13 +7,25 @@ public:
 
         for(int i=0;i<m;i++)
         {
-            for(int j=0;j<n;j++)
+            int low=0;
+            int high=n-1;
+            int firstNegative=n;
+
+            while(low<=high)
             {
-                if(grid[i][j]<0)
+                int mid=low+(high-low)/2;
+
+                if(grid[i][mid]<0)
                 {
-                    count++;
+                    firstNegative=mid;
+                    high=mid-1;
+                }
+                else
+                {
+                    low=mid+1;
                 }
             }
+            count+=(n-firstNegative);
         }
         return count;
     }
