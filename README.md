@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/bstar042005/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
