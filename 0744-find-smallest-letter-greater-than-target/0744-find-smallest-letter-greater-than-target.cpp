@@ -7,7 +7,6 @@ public:
         while(low<=high)
         {
             int mid=low+(high-low)/2;
-
             if(letters[mid]>target)
             {
                 ans=letters[mid];
