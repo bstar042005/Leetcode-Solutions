@@ -1,32 +1,36 @@
 class Solution {
 public:
     int countNegatives(vector<vector<int>>& grid) {
-        int count=0;
-        int m=grid.size();
-        int n=grid[0].size();
 
-        for(int i=0;i<m;i++)
+        int m = grid.size();
+        int n = grid[0].size();
+
+        int count = 0;
+
+        for(int i = 0; i < m; i++)
         {
-            int low=0;
-            int high=n-1;
-            int firstNegative=n;
+            int low = 0;
+            int high = n - 1;
+            int firstNegative = n;
 
-            while(low<=high)
+            while(low <= high)
             {
-                int mid=low+(high-low)/2;
+                int mid = low + (high - low) / 2;
 
-                if(grid[i][mid]<0)
+                if(grid[i][mid] < 0)
                 {
-                    firstNegative=mid;
-                    high=mid-1;
+                    firstNegative = mid;
+                    high = mid - 1;
                 }
                 else
                 {
-                    low=mid+1;
+                    low = mid + 1;
                 }
             }
-            count+=(n-firstNegative);
+
+            count += n - firstNegative;
         }
+
         return count;
     }
 };
