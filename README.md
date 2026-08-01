@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1146-snapshot-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1146-snapshot-array) |
 | [1331-rank-transform-of-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -155,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
