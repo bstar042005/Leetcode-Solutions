@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1331-rank-transform-of-an-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
