@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
