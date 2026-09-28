@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/bstar042005/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1528-shuffle-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bstar042005/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bstar042005/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
